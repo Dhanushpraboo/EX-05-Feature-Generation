@@ -98,31 +98,31 @@ df9
 ```
 # OUPUT
 ## DataFrame(data.csv):
-![output](./Data/a1.png)
+![output](./a1.png)
 ## Applying Ordinal Encoding Method in column- Ord_1:
-![output](./Data/a2.png)
-![output](./Data/a3.png)
+![output](./a2.png)
+![output](./a3.png)
 ## After applying Ordinal Encoding Method in column- Ord_1:
-![output](./Data/a4.png)
+![output](./a4.png)
 ## Applying Ordinal Encoding Method in column- Ord_2:
-![output](./Data/a5.png)
-![output](./Data/a6.png)
+![output](./a5.png)
+![output](./a6.png)
 ## After applying Ordinal Encoding Method in column- Ord_2:
-![output](./Data/a7.png)
+![output](./a7.png)
 ## Applying Binary Encoding Method in column- bin_1:
-![output](./Data/a8.png)
+![output](./a8.png)
 ## After Binary Encoding Method in column- bin_1:
-![output](./Data/a9.png)
+![output](./a9.png)
 ## Applying Binary Encoding Method in column- bin_2:
-![output](./Data/a10.png)
+![output](./a10.png)
 ## After Binary Encoding Method in column- bin_2:
-![output](./Data/a11.png)
+![output](./a11.png)
 ## One Hot Encoding Method:
-![output](./Data/a12.png)
+![output](./a12.png)
 
-![output](./Data/a13.png)
+![output](./a13.png)
 ## Final DataSet after applying Encoding Methods:
-![output](./Data/a13.png)
+![output](./a13.png)
 ## Feature Scaling Techniques:
 Feature scaling is a method used to normalize the range of independent variables or features of data. In data processing, it is also known as data normalization and is generally performed during the data preprocessing step.
 
@@ -131,13 +131,13 @@ Feature scaling is a method used to normalize the range of independent variables
     3.Max Abs Scaler.
     4.Robust Scaler.
 ## Feature Scaling - Min-Max Scaler Technique:
-![output](./Data/a14.png)
+![output](./a14.png)
 ## Feature Scaling - Standard Scaler Technique:
-![output](./Data/a15.png)
+![output](./a15.png)
 ## Feature Scaling - Max Abs Scaler Technique:
-![output](./Data/a16.png)
+![output](./a16.png)
 ## Feature Scaling - Robust Scaler Technique:
-![output](./Data/a17.png)
+![output](./a17.png)
 
 # Dataset 2 - Encoding Data.csv
 ## Code:
@@ -202,42 +202,42 @@ df8
 
 # Output:
 ## DataFrame (Encoding Data.csv)
-![output](./Encoding%20data/d1.png)
+![output](./d1.png)
 ## Applying Ordinal Encoding Method in column - ord_2:
-![output](./Encoding%20data/d2.png)
+![output](./d2.png)
 
-![output](./Encoding%20data/d3.png)
+![output](./d3.png)
 ## After applying Ordinal Encoding Method in column - ord_2:
-![output](./Encoding%20data/d4.png)
+![output](./d4.png)
 ## Applying Ordinal Encoding Method in column - nom_0:
-![output](./Encoding%20data/d5.png)
+![output](./d5.png)
 
-![output](./Encoding%20data/d6.png)
+![output](./d6.png)
 ## After applying Ordinal Encoding Method in column - nom_0:
-![output](./Encoding%20data/d7.png)
+![output](./d7.png)
 ## Applying Binary Encoding Method in column - bin_1:
-![output](./Encoding%20data/d8.png)
+![output](./d8.png)
 ## After applying Binary Encoding in column- bin_1:
-![output](./Encoding%20data/d9.png)
+![output](./d9.png)
 ## Applying Binary Encoding Method in column - bin_2:
-![output](./Encoding%20data/d10.png)
+![output](./d10.png)
 ## After applying Binary Encoding in column- bin_2:
-![output](./Encoding%20data/d11.png)
+![output](./d11.png)
 ## Final DataSet after applying Encoding Methods:
-![output](./Encoding%20data/d11.png)
+![output](./d11.png)
 ## Feature Scaling Techniques:
     1.Min-Max Scaler.
     2.Standard Scaler.
     3.Max Abs Scaler.
     4.Robust Scaler.
 ## Feature Scaling - Min-Max Scaler Technique:
-![output](./Encoding%20data/d12.png)
+![output](./d12.png)
 ## Feature Scaling - Standard Scaler Technique:
-![output](./Encoding%20data/d13.png)
+![output](./d13.png)
 ## Feature Scaling - Max Abs Scaler Technique:
-![output](./Encoding%20data/d14.png)
+![output](./d14.png)
 ## Feature Scaling - Robust Scaler Technique:
-![output](./Encoding%20data/d15.png)
+![output](./d15.png)
 
 # Dataset 3 - titanic_dataset.csv
 ## Code:
@@ -301,44 +301,44 @@ df6
 
 # Output:
 ## DataFrame - (titanic_dataset.csv):
-![output](./titanic%20dataset/t1.png)
+![output](./t1.png)
 ## Droping "Name" column from DataFrame:
-![output](./titanic%20dataset/t2.png)
+![output](./t2.png)
 ## Droping "Cabin" and "Ticket" column from DataFrame:
-![output](./titanic%20dataset/t4.png)
+![output](./t4.png)
 ## Non Null-data Count:
-![output](./titanic%20dataset/t5.png)
+![output](./t5.png)
 ## Sum of null data present in each column:
-![output](./titanic%20dataset/t6.png)
+![output](./t6.png)
 ## Handling Null data in Column "Age" and "Embarked" :
-![output](./titanic%20dataset/t8.png)
+![output](./t8.png)
 ## Data Frame after removing column - Age,Cabin,Ticket:
-![output](./titanic%20dataset/t9.png)
+![output](./t9.png)
 ## Feature Generation Process:
     1.Ordinal Encoder.
     2.Binary Encoder.
     3.One Hot Encoder.
 ## Applying Ordinal Encoding Method in column - Embarked:
-![output](./titanic%20dataset/t10.png)
-![output](./titanic%20dataset/t11.png)
+![output](./t10.png)
+![output](./t11.png)
 ## After applying Ordinal Encoding Method in column - Embarked:
-![output](./titanic%20dataset/t12.png)
+![output](./t12.png)
 ## Applying Binary Encoding Method in column - Sex:
-![output](./titanic%20dataset/t13.png)
+![output](./t13.png)
 ## After applying Binary Encoding in column- Sex:
-![output](./titanic%20dataset/t14.png)
+![output](./t14.png)
 ## Feature Scaling Techniques:
     1.Min-Max Scaler.
     2.Standard Scaler.
     3.Max Abs Scaler.
     4.Robust Scaler.
 ## Feature Scaling - Min-Max Scaler Technique:
-![output](./titanic%20dataset/t15.png)
+![output](./t15.png)
 ## Feature Scaling - Standard Scaler Technique:
-![output](./titanic%20dataset/t16.png)
+![output](./t16.png)
 ## Feature Scaling - Max Abs Scaler Technique:
-![output](./titanic%20dataset/t17.png)
+![output](./t17.png)
 ## Feature Scaling - Robust Scaler Technique:
-![output](./titanic%20dataset/t18.png)
+![output](./t18.png)
 # Result:
 Feature Generation process and Feature Scaling process is applied to the given data frame sucessfully.
